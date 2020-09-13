@@ -31,7 +31,7 @@ Minecraft 1.12.2 Mod Server
 
 **联系方式**
 
-官方网站: http://www.bkmwy.cn
+官方网站：http://www.bkmwy.cn
 
 官方QQ1群：
 
